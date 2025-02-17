@@ -1,0 +1,5 @@
+C:\Users\Feyzollahi\Desktop\dev\AstronautGame\AstronautGame\bin\Release\AstronautGame.exe.config
+C:\Users\Feyzollahi\Desktop\dev\AstronautGame\AstronautGame\bin\Release\AstronautGame.exe
+C:\Users\Feyzollahi\Desktop\dev\AstronautGame\AstronautGame\bin\Release\AstronautGame.pdb
+C:\Users\Feyzollahi\Desktop\dev\AstronautGame\AstronautGame\obj\Release\AstronautGame.exe
+C:\Users\Feyzollahi\Desktop\dev\AstronautGame\AstronautGame\obj\Release\AstronautGame.pdb
