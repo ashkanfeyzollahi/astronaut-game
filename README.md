@@ -12,7 +12,7 @@ Simple astronaut game made with C# .NET framework 4.5 for education & fun purpos
 
 ### Todo
 
-- [ ] Manage resources properly and increase performance and stop using multiple threads
+- [ ] Manage resources properly and increase performance and stop using multiple threads (use ncurses or any alternatives)
 - [ ] Change background color to *black*, meteors' color to *white* and keep player's color as *yellow*
 - [ ] Write a heart point system for player
 - [ ] Allow players to shoot lasers
